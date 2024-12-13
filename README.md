@@ -1,5 +1,5 @@
 # Thesis Supplementary Materials
-Supplementary Materials for my MSc Thesis, including code, ML predictions, and the pathway analysis
+Supplementary Materials for my MSc Thesis, including code, data, ML predictions, and the pathway analysis
 
 **Annotated Predictions**  
 The ML model predictions with the original annotations for the compounds to help us decide which ones to select for experimental validation. Note, as the annotations were originally made for internal communications only, they are not polished and may contain typos and internal memos
